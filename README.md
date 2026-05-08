@@ -8,12 +8,12 @@
   </a>
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIAL & PRO BADGES -->
 <p align="center">
+  <a href="https://github.com/akshit40"><img src="https://img.shields.io/badge/GitHub-Pro-000000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://akshit-space.vercel.app"><img src="https://img.shields.io/badge/Portfolio-akshit--space-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/akshitkumar-tech"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://kaggle.com/akshitkumar408"><img src="https://img.shields.io/badge/Kaggle-Compete-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;
-  <a href="mailto:akshitsingh402@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kaggle.com/akshitkumar408"><img src="https://img.shields.io/badge/Kaggle-Compete-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 <br/>
