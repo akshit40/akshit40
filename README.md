@@ -64,7 +64,7 @@ class AkshitKumar:
         </a>
       </p>
       <p align="center"><strong>Virtual DJ Controller</strong></p>
-      <p align="center">Computer vision-powered DJ deck — control volume, speed, pitch, and track navigation using hand gestures via your webcam in real-time. OpenCV + MediaPipe.</p>
+      <p align="center">Computer-vision-powered DJ deck — hand-gesture control of volume, speed, pitch, and track navigation using hand gestures via your webcam in real-time. OpenCV + MediaPipe.</p>
     </td>
   </tr>
   <tr>
@@ -119,13 +119,13 @@ class AkshitKumar:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshit40&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshit40&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshit40&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshit40&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshit40&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshit40&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&area_color=70a5fd&hide_border=true" width="100%" />
 </p>
 
 <br/>
@@ -137,44 +137,6 @@ class AkshitKumar:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshit40/akshit40/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/akshit40/akshit40/output/github-snake-dark.svg" width="100%" />
 </picture>
-
-<!-- 
-╔══════════════════════════════════════════════════════════════════╗
-║  🐍 SNAKE SETUP: To make the snake animation work, you need    ║
-║  to create a GitHub Action in your akshit40/akshit40 repo.      ║
-║                                                                  ║
-║  1. Create file: .github/workflows/snake.yml                    ║
-║  2. Paste this content:                                          ║
-║                                                                  ║
-║  name: Generate Snake                                            ║
-║  on:                                                             ║
-║    schedule:                                                     ║
-║      - cron: "0 0 * * *"                                        ║
-║    workflow_dispatch:                                             ║
-║  jobs:                                                           ║
-║    build:                                                        ║
-║      runs-on: ubuntu-latest                                      ║
-║      steps:                                                      ║
-║        - uses: Platane/snk/svg-only@v3                          ║
-║          with:                                                   ║
-║            github_user_name: akshit40                            ║
-║            outputs: |                                            ║
-║              dist/github-snake.svg                               ║
-║              dist/github-snake-dark.svg?palette=github-dark      ║
-║          env:                                                    ║
-║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}             ║
-║        - uses: crazy-max/ghaction-github-pages@v3.1.0           ║
-║          with:                                                   ║
-║            target_branch: output                                 ║
-║            build_dir: dist                                       ║
-║          env:                                                    ║
-║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}             ║
-║                                                                  ║
-║  3. Go to repo Settings > Actions > General >                   ║
-║     Workflow permissions > "Read and write"                      ║
-║  4. Go to Actions tab > Run workflow manually                   ║
-╚══════════════════════════════════════════════════════════════════╝
--->
 
 <br/>
 
