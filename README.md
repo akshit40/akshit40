@@ -1,54 +1,62 @@
 <div align="center">
 
-<h3><code>akshit@github ~ $ ./contributions.sh</code></h3>
+# `akshit@github:~$`
 
-<img src="./contrib-heatmap.svg" width="860" alt="Live animated GitHub contribution graph"/>
+**AI/ML Engineer · Deep Tech · Lunar Infrastructure**
+
+<sub>building intelligent systems for places humans haven't built for yet.</sub>
 
 <br><br>
 
-<h3><code>akshit@github ~ $ whoami</code></h3>
+<pre>
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  AKSHIT / SYSTEM PROFILE                                                    │
+│  ──────────────────────────────────────────────────────────────────────────  │
+│  focus    AI/ML · Robotics · Digital Twins · Lunar Systems                  │
+│  stack    Python · PyTorch · TensorFlow · LLMs · MLOps                      │
+│  building Lunabers · lunar simulation &amp; infrastructure research             │
+└──────────────────────────────────────────────────────────────────────────────┘
+</pre>
+
+### `akshit@github ~ $ ./contributions.sh`
+
+<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap"/>
+
+<br><br>
 
 <table>
 <tr>
 <td valign="top"><img src="./akshit-ascii.svg" width="370" alt="Animated ASCII portrait"/></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Neofetch-style profile card"/></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Animated neofetch profile card"/></td>
 </tr>
 </table>
 
 <br>
 
-<code>AI/ML • Robotics • Digital Twins • Lunar Infrastructure</code>
+<sub>AI/ML • Robotics • Digital Twins • Lunar Infrastructure</sub>
 
 </div>
 
 ---
 
-## About
+## `> about`
 
-I build systems at the intersection of **AI/ML, robotics, simulation, and lunar infrastructure**.
+I'm an AI/ML engineer and deep-tech builder working across **machine learning, robotics, simulation, and lunar infrastructure**.
 
-- 🔭 Co-Managing Partner at **Lunabers**
-- 🤖 AI/ML, robotics, computer vision and digital twins
-- 🧠 Python, PyTorch, TensorFlow, LLMs and MLOps
-- 🌙 Researching software and infrastructure for future lunar systems
+**Current:** Co-Managing Partner at **Lunabers**
 
-## The terminal profile
+**Interested in:** intelligent robotics, generative AI, digital twins, computer vision, MLOps, and systems for future lunar operations.
 
-This profile is intentionally self-hosted.
+## `> selected_work`
 
-- No JavaScript in the README
-- No GitHub token required for the contribution calendar
-- Animated SVGs are committed directly to the repository
-- GitHub Actions refreshes the contribution graph every day
+| Project | What it is |
+|---|---|
+| 🌙 **Lunabers** | Research-first lunar infrastructure across robotics, mobility, digital twins, ISRU and terrain simulation |
+| 🤖 **AI / ML Systems** | Computer vision, deep learning, LLM applications and production-oriented ML pipelines |
+| 🛰️ **Simulation** | Digital-twin concepts for terrain, telemetry, robotics and mission planning |
 
-The portrait and profile card are static artwork. The contribution graph is regenerated from GitHub's public contribution-calendar HTML.
+## `> philosophy`
 
-## Current focus
+> **Research deeply. Build deliberately. Ship useful systems.**
 
-**Lunabers** — lunar infrastructure research across robotics, mobility, digital twins, ISRU, power/energy architecture, communications and terrain simulation.
-
----
-
-<p align="center">
-<code>akshit@github:~$ echo "build • research • ship"</code>
-</p>
+<sub>This profile is intentionally built with self-hosted SVG artwork. The contribution graph is refreshed automatically by GitHub Actions.</sub>
