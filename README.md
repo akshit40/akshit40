@@ -111,7 +111,7 @@ class AkshitKumar:
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshit40&theme=algolia&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akshit40&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" />
 </p>
 
 <br/>
@@ -119,9 +119,9 @@ class AkshitKumar:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshit40&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshit40&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshit40&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=akshit40&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
