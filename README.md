@@ -124,10 +124,6 @@ class AkshitKumar:
   <img src="https://streak-stats.demolab.com/?user=akshit40&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshit40&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&area_color=70a5fd&hide_border=true" width="100%" />
-</p>
-
 <br/>
 
 ### 🐍 Contribution Snake
@@ -139,10 +135,6 @@ class AkshitKumar:
 </picture>
 
 <br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshit40&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
 
 <!-- FOOTER: Capsule Render Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
