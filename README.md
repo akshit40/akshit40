@@ -108,14 +108,6 @@ class AkshitKumar:
 
 <br/>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshit40&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" />
-</p>
-
-<br/>
-
 ### 📊 GitHub Analytics
 
 <p align="center">
