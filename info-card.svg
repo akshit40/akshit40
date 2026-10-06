@@ -1,20 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="510" viewBox="0 0 860 510">
-<rect x="2" y="2" width="856" height="506" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<rect x="2" y="2" width="856" height="506" rx="14" fill="#0d1117" stroke="#30363d"/>
 <circle cx="24" cy="25" r="6" fill="#ff5f56"/><circle cx="44" cy="25" r="6" fill="#ffbd2e"/><circle cx="64" cy="25" r="6" fill="#27c93f"/>
-<text x="92" y="30" fill="#8b949e" font-family="monospace" font-size="15">akshit@github — neofetch</text>
-<style>.row{opacity:0;animation:f .45s ease-out forwards}@keyframes f{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}</style>
-<text class="row" style="animation-delay:.1s" x="36" y="82" fill="#58a6ff" font-family="monospace" font-size="25" font-weight="700">AKSHIT KUMAR</text>
-<text class="row" style="animation-delay:.18s" x="36" y="108" fill="#8b949e" font-family="monospace" font-size="14">AI/ML • Deep Tech • Lunar Infrastructure</text>
-<g font-family="monospace" font-size="16">
-<text class="row" style="animation-delay:.26s" x="38" y="154" fill="#79c0ff">Now</text><text class="row" style="animation-delay:.30s" x="180" y="154" fill="#c9d1d9">Co-Managing Partner @ Lunabers</text>
-<text class="row" style="animation-delay:.34s" x="38" y="194" fill="#79c0ff">Focus</text><text class="row" style="animation-delay:.38s" x="180" y="194" fill="#c9d1d9">AI/ML • Robotics • Digital Twins • Space Tech</text>
-<text class="row" style="animation-delay:.42s" x="38" y="234" fill="#79c0ff">Stack</text><text class="row" style="animation-delay:.46s" x="180" y="234" fill="#c9d1d9">Python • PyTorch • TensorFlow • LLMs • MLOps</text>
-<text class="row" style="animation-delay:.50s" x="38" y="274" fill="#79c0ff">Building</text><text class="row" style="animation-delay:.54s" x="180" y="274" fill="#c9d1d9">Lunar simulation + infrastructure systems</text>
-<text class="row" style="animation-delay:.58s" x="38" y="314" fill="#79c0ff">Education</text><text class="row" style="animation-delay:.62s" x="180" y="314" fill="#c9d1d9">B.Tech AI &amp; ML • Sharda University • 2027</text>
-<text class="row" style="animation-delay:.66s" x="38" y="354" fill="#79c0ff">Interests</text><text class="row" style="animation-delay:.70s" x="180" y="354" fill="#c9d1d9">Robotics • Generative AI • Research • Deep Tech</text>
+<text x="92" y="30" fill="#8b949e" font-family="monospace" font-size="15">akshit@github:~$ neofetch</text>
+<style>.f{opacity:0;animation:f .45s ease-out forwards}@keyframes f{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}</style>
+<text class="f" style="animation-delay:.05s" x="36" y="82" fill="#58a6ff" font-family="monospace" font-size="28" font-weight="700">AKSHIT KUMAR</text>
+<text class="f" style="animation-delay:.12s" x="36" y="108" fill="#8b949e" font-family="monospace" font-size="14">AI/ML ENGINEERING  •  DEEP TECH  •  LUNAR SYSTEMS</text>
+<line x1="36" y1="128" x2="824" y2="128" stroke="#21262d"/>
+<g font-family="monospace" font-size="15">
+<text class="f" style="animation-delay:.18s" x="38" y="160" fill="#7ee787">role</text><text class="f" style="animation-delay:.21s" x="175" y="160" fill="#c9d1d9">Co-Managing Partner @ Lunabers</text>
+<text class="f" style="animation-delay:.24s" x="38" y="194" fill="#7ee787">focus</text><text class="f" style="animation-delay:.27s" x="175" y="194" fill="#c9d1d9">AI/ML · Robotics · Digital Twins</text>
+<text class="f" style="animation-delay:.30s" x="38" y="228" fill="#7ee787">space</text><text class="f" style="animation-delay:.33s" x="175" y="228" fill="#c9d1d9">Lunar mobility · simulation · ISRU</text>
+<text class="f" style="animation-delay:.36s" x="38" y="262" fill="#7ee787">stack</text><text class="f" style="animation-delay:.39s" x="175" y="262" fill="#c9d1d9">Python · PyTorch · TensorFlow · LLMs</text>
+<text class="f" style="animation-delay:.42s" x="38" y="296" fill="#7ee787">systems</text><text class="f" style="animation-delay:.45s" x="175" y="296" fill="#c9d1d9">MLOps · Linux · Simulation · Computer Vision</text>
+<text class="f" style="animation-delay:.48s" x="38" y="330" fill="#7ee787">education</text><text class="f" style="animation-delay:.51s" x="175" y="330" fill="#c9d1d9">B.Tech AI &amp; ML · Sharda University · 2027</text>
 </g>
-<line x1="36" y1="390" x2="824" y2="390" stroke="#21262d"/>
-<text x="38" y="424" fill="#7ee787" font-family="monospace" font-size="15">$ status</text>
-<text x="38" y="452" fill="#8b949e" font-family="monospace" font-size="14">Building useful systems at the intersection of AI and space.</text>
-<text x="38" y="482" fill="#6e7681" font-family="monospace" font-size="12">PROFILE ART • SELF-GENERATED • NO STATS SERVICE</text>
+<line x1="36" y1="362" x2="824" y2="362" stroke="#21262d"/>
+<text class="f" style="animation-delay:.58s" x="38" y="395" fill="#58a6ff" font-family="monospace" font-size="13">$ mission</text>
+<text class="f" style="animation-delay:.64s" x="38" y="423" fill="#c9d1d9" font-family="monospace" font-size="14">Build intelligent systems for places humans</text>
+<text class="f" style="animation-delay:.69s" x="38" y="447" fill="#c9d1d9" font-family="monospace" font-size="14">haven't built for yet.</text>
+<text x="38" y="482" fill="#6e7681" font-family="monospace" font-size="11">status: BUILDING • RESEARCHING • SHIPPING</text>
 </svg>
