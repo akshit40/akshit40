@@ -1,35 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="510" viewBox="0 0 760 510">
-<rect width="100%" height="100%" rx="14" fill="#0b0f0d" stroke="#30363d"/>
-<style>.a{font-family:"DejaVu Sans Mono","Courier New",monospace;font-size:13px;font-weight:700;fill:#c9d1c7;letter-spacing:1px}.l{opacity:0;animation:p .28s ease-out forwards}@keyframes p{to{opacity:1}}</style>
-<text x="28" y="28" fill="#7ee787" font-family="monospace" font-size="12">$ ./akshit_portrait.sh</text>
+<rect width="760" height="510" rx="14" fill="#090d0b" stroke="#30363d"/>
+<text x="24" y="28" fill="#7ee787" font-family="monospace" font-size="12">$ ./portrait --mode ascii</text>
+<text x="736" y="28" text-anchor="end" fill="#484f58" font-family="monospace" font-size="11">AKSHIT_40</text>
+<style>.a{font-family:"DejaVu Sans Mono","Courier New",monospace;font-size:11px;font-weight:700;fill:#b8c4ba}.r{opacity:0;animation:in .32s ease-out forwards}@keyframes in{to{opacity:1}}</style>
 <g class="a" text-anchor="middle">
-<text class="l" style="animation-delay:.00s" x="380" y="64">                                                </text>
-<text class="l" style="animation-delay:.04s" x="380" y="78">                                                </text>
-<text class="l" style="animation-delay:.08s" x="380" y="92">                                                </text>
-<text class="l" style="animation-delay:.12s" x="380" y="106">                        .                       </text>
-<text class="l" style="animation-delay:.16s" x="380" y="120">                     =##%#**+-                  </text>
-<text class="l" style="animation-delay:.20s" x="380" y="134">                   .#@@%#%%%%%+:                </text>
-<text class="l" style="animation-delay:.24s" x="380" y="148">                  -%@%@%%%#==*@%:               </text>
-<text class="l" style="animation-delay:.28s" x="380" y="162">                 *@%%*==-.  :#%+                </text>
-<text class="l" style="animation-delay:.32s" x="380" y="176">                 :@#-=++=-+:-##=                </text>
-<text class="l" style="animation-delay:.36s" x="380" y="190">                  .%+.:=+:-*--#+                </text>
-<text class="l" style="animation-delay:.40s" x="380" y="204">                   ==:-=+=:=.:=                 </text>
-<text class="l" style="animation-delay:.44s" x="380" y="218">                   .--*++=-*-.                  </text>
-<text class="l" style="animation-delay:.48s" x="380" y="232">                    =+-=-.:-:                   </text>
-<text class="l" style="animation-delay:.52s" x="380" y="246">                    =**++::-                    </text>
-<text class="l" style="animation-delay:.56s" x="380" y="260">                  --=+*#*=-.                    </text>
-<text class="l" style="animation-delay:.60s" x="380" y="274">              .-+#@:.-==-:. +*=-.               </text>
-<text class="l" style="animation-delay:.64s" x="380" y="288">           :+#%@@@%:  :=-   ***%%*=:.           </text>
-<text class="l" style="animation-delay:.68s" x="380" y="302">        .+#%%%%%%%#:.-##*-..##**#%%#*+-.         </text>
-<text class="l" style="animation-delay:.72s" x="380" y="316">       :%@%%##%%%%#..:+%-:::####*%#**+#-         </text>
-<text class="l" style="animation-delay:.76s" x="380" y="330">       *@%%%%%%##%#...*%=. :####*@**#+#*.        </text>
-<text class="l" style="animation-delay:.80s" x="380" y="344">      .%%%%@%%%*#%*..:#%+. -####*#+##+#+-        </text>
-<text class="l" style="animation-delay:.84s" x="380" y="358">      =@%@%@%#%*#%*..-%%*: -#*##**+#%*#+-        </text>
-<text class="l" style="animation-delay:.88s" x="380" y="372">      #@%%%@%#%##%*. -%%*..-####**=#%##*=.       </text>
-<text class="l" style="animation-delay:.92s" x="380" y="386">     .%%%%%@%#%%#%*. -%%*..-##%***=#%%%*+-.      </text>
-<text class="l" style="animation-delay:.96s" x="380" y="400">     -@%%%%@%#%%#%*: =%%+..-###***=*%%#*+=.      </text>
-<text class="l" style="animation-delay:1.00s" x="380" y="414">     *@%%@@@%%%@%@*- =@%+:.=##%%**=+#%#%*=.      </text>
-<text class="l" style="animation-delay:1.04s" x="380" y="428">     -------------:. .-:.  .-::-:::.:---:.       </text>
+<text class="r" style="animation-delay:.00s" x="380" y="62">                                        .::-==-::.                                    </text>
+<text class="r" style="animation-delay:.04s" x="380" y="72">                                      .=#######**++==--::.                            </text>
+<text class="r" style="animation-delay:.08s" x="380" y="82">                                    .+######*#####**#*+**+                          </text>
+<text class="r" style="animation-delay:.12s" x="380" y="92">                                  :*%#%###**###%####*##*++-:                       </text>
+<text class="r" style="animation-delay:.16s" x="380" y="102">                                .=#%%##%%%##*#####*+*%%%%##*=                     </text>
+<text class="r" style="animation-delay:.20s" x="380" y="112">                               +#%%%##%%%%%%%##%#+=----*%%%+#=                    </text>
+<text class="r" style="animation-delay:.24s" x="380" y="122">                              -#%%%%%#%%******+=-:..  .:**##%*.                   </text>
+<text class="r" style="animation-delay:.28s" x="380" y="132">                               #%%%%%##*+=---::....   .:+#*##*-                   </text>
+<text class="r" style="animation-delay:.32s" x="380" y="142">                               =%%%%=======++=-:.:::.  .+##***+:                   </text>
+<text class="r" style="animation-delay:.36s" x="380" y="152">                                #%%#+--========-:=++=-.:+**+**-                   </text>
+<text class="r" style="animation-delay:.40s" x="380" y="162">                               :#%%*-::-=+*+*+-.:+**=::-=-##*.                    </text>
+<text class="r" style="animation-delay:.44s" x="380" y="172">                                +*#=-....:-----..-++--::=*#+.                    </text>
+<text class="r" style="animation-delay:.48s" x="380" y="182">                               :*#-::..::===--. :::.  .=**.                      </text>
+<text class="r" style="animation-delay:.52s" x="380" y="192">                               :=+----====++*+-=:+=:  .+-.                       </text>
+<text class="r" style="animation-delay:.56s" x="380" y="202">                                -=::-=++=-====: .+*=:.:                          </text>
+<text class="r" style="animation-delay:.60s" x="380" y="212">                                 :*----+**====---==*=-...                       </text>
+<text class="r" style="animation-delay:.64s" x="380" y="222">                                  -=-===--==-:..:-=-:...                        </text>
+<text class="r" style="animation-delay:.68s" x="380" y="232">                                  .=++=---===-:..::::.                          </text>
+<text class="r" style="animation-delay:.72s" x="380" y="242">                                  .=+*++==---:...:--.                           </text>
+<text class="r" style="animation-delay:.76s" x="380" y="252">                                  -==+*******==----:                            </text>
+<text class="r" style="animation-delay:.80s" x="380" y="262">                                =.====+******+=--::..                            </text>
+<text class="r" style="animation-delay:.84s" x="380" y="272">                              -#+.:=====++++=--:::: ..                           </text>
+<text class="r" style="animation-delay:.88s" x="380" y="282">                          :-+#%%=...-======--::::.  .#++=-:                      </text>
+<text class="r" style="animation-delay:.92s" x="380" y="292">                      .-+*#%%%%%%=.....:--==----:    :#**+**#+-:..               </text>
+<text class="r" style="animation-delay:.96s" x="380" y="302">                  :=+####%%###%#%=....   :-==-:      :#**++**#%#**+-.            </text>
+<text class="r" style="animation-delay:1.00s" x="380" y="312">              :=*################=..... :-=-=-.     .-#**++***###*****+=-:        </text>
+<text class="r" style="animation-delay:1.04s" x="380" y="322">           .=*###################-.. .:+%%##*+*=.   .=#***++****####***+++=-.     </text>
+<text class="r" style="animation-delay:1.08s" x="380" y="332">        :+############%%########::.::--=#%#+=--=-. :=##****+***#####*+++++++=.    </text>
+<text class="r" style="animation-delay:1.12s" x="380" y="342">       +##########**############:.....:-=%#+...::.:-=#*******++#%%#++**++++++:    </text>
+<text class="r" style="animation-delay:1.16s" x="380" y="352">      :#%#######%#**##***#######: ....:-*%*+- .:  :-+#*********+%%#=+##++*+**=:  </text>
+<text class="r" style="animation-delay:1.20s" x="380" y="362">      =%#%#%####%%**#%****#####*:  ....-#%#*=.:. .::+#*********#%%*-+%#+=*+##+=- </text>
+<text class="r" style="animation-delay:1.24s" x="380" y="372">     .#%#%%%###%%%##%%#**######*:  ...:+####=.:. .::+#********+*#%*-+%#+-**%*+=- </text>
+<text class="r" style="animation-delay:1.28s" x="380" y="382">     +%#%##%%###%%%###%#+**#####*: ...:*####+... .::********#*++*#+-+%%*-+##++=-. </text>
+<text class="r" style="animation-delay:1.32s" x="380" y="392">     *%%%#%%%##%%##*##%*+**####+:.  ..-*####+::. .::********#*++*#+-+%%*-+#*++=- </text>
+<text class="r" style="animation-delay:1.36s" x="380" y="402">    -#%%%##%%#%%%##*##%*+**####+:.  ..=#####+:-  .:-********#**++*+-+%%*-*#*++==- </text>
+<text class="r" style="animation-delay:1.40s" x="380" y="412">    +%#####%%#%%%#####%#+*#####+.:  .:=#####+-: ..:-************++=-*%%#+#***+=-- </text>
+<text class="r" style="animation-delay:1.44s" x="380" y="422">   .#######%%#%%%######%***####+.:  .:=#####+-: ...:*****##+*+**+=-*%%**###*++=-- </text>
+<text class="r" style="animation-delay:1.48s" x="380" y="432">   =#######%%#%%%######%#*#####+::  .:=#####+-: ...:*****##***++++=-+%%**%##*++=-- </text>
+<text class="r" style="animation-delay:1.52s" x="380" y="442">   *#######%%#%%%#######%*#####+:.. .:+####*--. ...-#****##***++++=-+%%*#%##*+++= </text>
+<text class="r" style="animation-delay:1.56s" x="380" y="452">  .-------------------------:--::..   .------:..  ..:-::::----:::::...::::-----:: </text>
 </g>
-<text x="28" y="482" fill="#6e7681" font-family="monospace" font-size="11">AKSHIT KUMAR • AI/ML • DEEP TECH • LUNAR SYSTEMS</text>
+<text x="24" y="486" fill="#6e7681" font-family="monospace" font-size="10">portrait rendered from akshit40.jpg • monochrome • self-contained SVG</text>
 </svg>
